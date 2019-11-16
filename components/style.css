@@ -1,0 +1,12 @@
+.jumbotron {
+	background: url('background.jpg')50% 50%;
+	background-size: cover;
+	color: floralwhite;
+}
+
+.jumbotron hr {
+	margin-left: 0px;
+	width: 35%;
+	border: 6px solid ghostwhite;
+  	border-radius: 5px;
+}
